@@ -1,0 +1,8 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.pkg filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+d/Users/testi/Python/Pós-Graduação/Interface[[:space:]]Grafica[[:space:]]Python/Gerenciamento[[:space:]]de[[:space:]]Estoque filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 1b6c45a6071d00bd9b51f9efaf0b486b2f9fa62a
+build/* filter=lfs diff=lfs merge=lfs -text
+main_login.exe filter=lfs diff=lfs merge=lfs -text
